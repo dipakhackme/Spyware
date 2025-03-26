@@ -4,7 +4,7 @@ Hey you all this is Ashutosh Behera. I have developed this advanced spyware tool
 
 DISCLAMIER
 
-This python program is for educational purpose only. Don't use it for any malicious purpose. The authoe of this program will not be responsible for any kind of malicious activity.
+This python program is for educational purpose onerly. Don't use it for any malicious purpose. The authoe of this program will not be responsible for any kind of malicious activity.
 
 WHAT IS A SPYWARE
 
